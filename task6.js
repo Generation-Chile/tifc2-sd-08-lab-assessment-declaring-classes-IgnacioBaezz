@@ -42,8 +42,6 @@ player2.addParty(player.name)
 player.removeParty(player2.name)
 player.info()
 
-// console.log(`Personas en el grupo: ${player.party.join(", ")}`)
-
 
 player.expUp()
 player.expUp()
